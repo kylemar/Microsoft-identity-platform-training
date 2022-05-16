@@ -4,7 +4,6 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 **Date**|**UTC**|**PST**|**EST**|**India**|**AET**|**Registration Link**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-May 10-12|18:00|11:00 AM|2:00 PM|11:30 PM|4:00 AM|[Register](https://aka.ms/Reg_MIP_5.10)
 June 28-30|03:00|8:00 PM|11:00 PM|8:30 AM|1:00 PM|[Register](https://aka.ms/Reg_MIP_6.21)
 
 ## You can see the recordings of the presentations

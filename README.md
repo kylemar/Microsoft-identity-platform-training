@@ -8,9 +8,9 @@ June 28-30|03:00|8:00 PM|11:00 PM|8:30 AM|1:00 PM|[Register](https://aka.ms/Reg_
 
 ## You can see the recordings of the presentations
 
-1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=q4st6D9jKJ0)
+1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=6ljD7rYVa1c)
 
-2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=6qG8mDZ__P4) 
+2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=lZ4QVa9_Xs0) 
 
-3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=QdqNJ0LYDfs)
+3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=gS59NvoQu20)
 

@@ -1,4 +1,4 @@
-# Microsoft identity platform workshop
+# Microsoft identity platform workshop for developers
 
 These are the presentations used in the Microsoft identity platform developer training workshops.   
 

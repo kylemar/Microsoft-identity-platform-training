@@ -8,5 +8,5 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=hdkTu0Ip_eo) 
 
-3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=hdkTu0Ip_eo)
+3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=q-W8xDO-7y4)
 

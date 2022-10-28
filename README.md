@@ -2,7 +2,12 @@
 
 These are the presentations used in the Microsoft identity platform developer training workshops.   
 
-## You can see the recordings of the presentations
+## Agenda
+
+Microsoft identity platform overview
+Protecting an API
+
+## You can see the latest recordings of the presentations
 
 1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=s5TB4AuPTa0)
 

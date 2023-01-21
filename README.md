@@ -25,9 +25,9 @@ Roles & Groups<br>
 
 ## You can see the latest recordings of the presentations
 
-1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=0sb-1q4Q0s0)
+1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=lIVAGNapvqQ)
 
-2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=4zwOBIOF5MU) 
+2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=d61WvL1AJ70) 
 
-3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=hKzdZMB6YN8)
+3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=Ct1RQPiaovs)
 

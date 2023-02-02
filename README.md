@@ -6,8 +6,8 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 **Date**|**UTC**|**PST**|**EST**|**India**|**AET**|**Registration Link**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-February 14 to 16, 2023|09:00|1:00 AM|4:00 AM|02:30 PM|08:00 PM
-March 14-16, 2023|16:00|9:00 AM|12:00 PM|09:30 PM|03:00 AM
+February 14 to 16, 2023|09:00|1:00 AM|4:00 AM|02:30 PM|08:00 PM|https://lnkd.in/gQEj5mGY
+March 14-16, 2023|16:00|9:00 AM|12:00 PM|09:30 PM|03:00 AM|https://lnkd.in/gQEj5mGY
 
 ## Agenda
 

@@ -28,7 +28,7 @@ Roles & Groups<br>
 
 1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=0sb-1q4Q0s0)
 
-2. Permissions and Consent and Microsoft Graph Coding  - [Day 2 recording](https://www.youtube.com/watch?v=4zwOBIOF5MU) 
+2. Permissions and Consent and Migrating from ADAL to MSAL - [Day 2 recording](https://www.youtube.com/watch?v=4zwOBIOF5MU) 
 
 3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=hKzdZMB6YN8)
 

@@ -6,7 +6,6 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 **Date**|**UTC**|**PST**|**EST**|**India**|**AET**|**Registration Link**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-February 14 to 16, 2023|09:00|1:00 AM|4:00 AM|02:30 PM|08:00 PM|https://lnkd.in/gQEj5mGY
 March 14-16, 2023|16:00|9:00 AM|12:00 PM|09:30 PM|03:00 AM|https://lnkd.in/gQEj5mGY
 
 ## Agenda
@@ -25,9 +24,9 @@ Roles & Groups<br>
 
 ## You can see the latest recordings of the presentations
 
-1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=lIVAGNapvqQ)
+1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://youtu.be/d7f2i1AZdzA)
 
-2. Permissions and Consent and Migrating from ADAL to MSAL  - [Day 2 recording](https://www.youtube.com/watch?v=d61WvL1AJ70) 
+2. Permissions and Consent and Migrating from ADAL to MSAL  - [Day 2 recording](https://youtu.be/CYyhs6Cmq0Q) 
 
-3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=Ct1RQPiaovs)
+3. Protecting and API and Customizing Tokens - [Day 3 recording](https://youtu.be/dvrZaazrSTA)
 

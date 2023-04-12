@@ -4,9 +4,10 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 ## Upcoming live sessions  
 
-**Date**|**UTC**|**PST**|**EST**|**India**|**AET**|**Registration Link**
+**Date**|**UTC**|**PDT**|**EDT**|**India**|**AET**|**Registration Link**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-
+May 2-4|13:00|6:00 AM|9:00 AM|6:30 PM|11:00 PM|https://aka.ms/RegIDforDevelopers
+May 2-4|22:00|3:00 PM|6:00 PM|3:30 AM|8:00 AM|https://aka.ms/RegIDforDevelopers
 
 ## Agenda
 

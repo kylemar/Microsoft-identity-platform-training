@@ -6,8 +6,7 @@ These are the presentations used in the Microsoft identity platform developer tr
 
 **Date**|**UTC**|**PDT**|**EDT**|**India**|**AET**|**Registration Link**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-May 2-4|13:00|6:00 AM|9:00 AM|6:30 PM|11:00 PM|https://aka.ms/RegIDforDevelopers
-May 2-4|22:00|3:00 PM|6:00 PM|3:30 AM|8:00 AM|https://aka.ms/RegIDforDevelopers
+
 
 ## Agenda
 
@@ -21,13 +20,13 @@ or<br>
     Migrating from ADAL to MSAL<br>
 <br>
 Protecting an API<br>
-Roles & Groups<br>
+Token Customization<br>
 
 ## You can see the latest recordings of the presentations
 
-1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://www.youtube.com/watch?v=Lf3gpVhR3p0)
+1. Microsoft identity platform overview and Fundamentals of modern auth - [Day 1 recording](https://youtu.be/aNyBO5W4uUQ)
 
-2. Permissions and Consent and Migrating from ADAL to MSAL  - [Day 2 recording](https://www.youtube.com/watch?v=tYC3ZZc2RRw) 
+2. Permissions and Consent and Migrating from ADAL to MSAL  - [Day 2 recording](https://youtu.be/OfxJeQbwhXE) 
 
-3. Protecting and API and Customizing Tokens - [Day 3 recording](https://www.youtube.com/watch?v=zuDnILtyh04)
+3. Protecting and API and Customizing Tokens - [Day 3 recording](https://youtu.be/tZ2120eUZ8A)
 
